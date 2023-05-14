@@ -1,0 +1,4 @@
+
+2021-10-18T09:49:33.811633400 : Kitkat
+2021-10-18T09:49:33.827268900 : Kitkat
+2021-10-20T22:17:04.454451600 : 1 of VendingMachine{userMoney=null, yourSelection=0, yourChance=0.0, itemName=Kitkat, itemPrice=1.5, itemInventory=43, itemID=A1} REMOVED.
